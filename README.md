@@ -192,9 +192,9 @@ All documentation content is written in Markdoc (`.md` files) and stored in `src
 
 ### Updating Branding
 
-**Logo:** Edit `src/components/Logo.tsx`  
-**Hero Section:** Modify `src/components/Hero.tsx`  
-**Color Scheme:** Update Tailwind classes in components  
+**Logo:** Edit `src/components/Logo.tsx`
+**Hero Section:** Modify `src/components/Hero.tsx`
+**Color Scheme:** Update Tailwind classes in components
 **Metadata:** Change SEO info in `src/app/layout.tsx`
 
 ### Adding Documentation
